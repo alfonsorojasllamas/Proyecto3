@@ -1,0 +1,90 @@
+body {
+margin: 0: 30% auto;
+}
+
+header {
+background-image:url(textura.jpg);
+color:white;
+text-align:center;
+padding:20px;
+margin-bottom:30px;
+}
+
+h1 {
+font-family: 'Adamina', serif;
+font-size:40px;
+}
+
+.tope::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+
+div {
+
+With:500px;
+Height:400px; 
+border: 3px #535c68;
+padding: 20px;
+Margin: 25px; 
+color: white;
+Floating: right;
+font-family:helvetica;
+Background-color: black;
+}
+
+.left{
+float:left;
+padding-right: 20px;
+}
+
+nav {
+text-align:center;
+margin-bottom:50px;
+}
+
+contenido {
+margin-top:50px;
+text-align:left;
+margin-bottom:100px;
+}
+
+nav{
+text-align:center;
+margin-bottom:50px;
+}
+
+p {
+margin-top:30px;
+text-align:right;
+}
+
+contenido {
+margin-top:50px;
+text-align:center;
+margin-bottom:50px;
+}
+
+frame {
+Float:right;
+padding-right: 50px;
+padding-bottom: 30px;
+margin-left:40px;
+margin-right:0px;
+margin-bottom:0px;
+margin-top:20px;
+}
+
+footer {
+background-color:purple;
+color:white;
+padding:30px;
+text-align:center;
+font-family:didot;
+font-size:10px;
+margin-bottom:0px;
+margin-top:20px;
+}
+
